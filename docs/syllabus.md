@@ -153,11 +153,11 @@ Spring 2025 Schedule
 |Week 9     |3/10-3/14 | Spring Break!   |                                   |      |                    |        |
 |Week 10    |3/17-3/21 | Random seed     | Dial-a-Curse                      | Ch9  | 07_syndna          | Quiz7  |
 |Week 11    |3/24-3/28 | Functions       | Bottles of Beer                   | Ch11 | 08_common          | Quiz8  |
-|Week 12    |3/25-3/31 | Parsing CVS     | Workout of the Day (WOD)          | Ch19 | 09_blastomatic     | Quiz9  |
-|Week 13    |3/31-4/4  | Randomness      | Password                          | Ch20 | 10_conserved       | Quiz10 |
-|Week 14    |4/7-4/11  | State           | Tic-Tac-Toe                       | Ch21 | 11_run_length      | Quiz11 |
-|Week 15    |4/14-4/18 | Types           | iTic-Tac-Toe                      | Ch22 | 12_seqmagique      | Quiz12 |
-|Weeks16-17 |4/21-5/7  | Coding Projects |                                   |      |                    |        | 
+|Week 12    |3/31-4/4 | Parsing CVS     | Workout of the Day (WOD)          | Ch19 | 09_blastomatic     | Quiz9  |
+|Week 13    |4/7-4/11  | Randomness      | Password                          | Ch20 | 10_conserved       | Quiz10 |
+|Week 14    |4/14-4/18  | State           | Tic-Tac-Toe                       | Ch21 | 11_run_length      | Quiz11 |
+|Week 15    |4/21-4/25 | Types           | iTic-Tac-Toe                      | Ch22 | 12_seqmagique      | Quiz12 |
+|Weeks16-17 |4/28-5/7  | Coding Projects |                                   |      |                    |        | 
 
 ## Honors Credit
 
